@@ -4,6 +4,7 @@
 Openluck
 # Elementos con los que se trabajo 
 Máquina virtual virtualvox
+
 Kioptrix nivel 1 
 # Objetivo  
 Nuestro objetivo es que el atacante pueda acceder a la información con la vulnerabilidad y privilegios que pueda acceder a la información personales como: registros de base de datos, usuarios, correos etc.
