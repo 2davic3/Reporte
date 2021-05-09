@@ -21,6 +21,6 @@ Esto lo podemos encontrar con el comando supo arp-scan -l
 
 #POC
 
-./fotos/img1.png
+/fotos/img1.png
 
-./fotos/img2.png
+/fotos/img2.png
