@@ -6,9 +6,9 @@ Openluck
 Máquina virtual virtualvox
 
 Kioptrix nivel 1 
-# Objetivo  
-Nuestro objetivo es que el atacante pueda acceder a la información con la vulnerabilidad y privilegios que pueda acceder a la información personales como: registros de base de datos, usuarios, correos etc.
-Siempre basándonos en el hacking ético vulnerando nuestra máquina virtual (kioptrix) con openluck, basándonos en el escalamiento de privilegios y ocupando una metodología hibrida con nuestro kioptirx.
+# Descripcion 
+SSL es una tecnología estandarizada que permite cifrar el tráfico de datos entre un navegador web y un sitio web (o entre dos servidores web), protegiendo así la conexión. Esto impide que un hacker pueda ver o interceptar la información que se transmite de un punto a otro, y que puede incluir datos personales o financieros.
+Si aparecen las letras HTTPS al principio de la dirección (URL) de un sitio web, dicho sitio está protegido por un certificado SSL o TLS. Además, en la barra de direcciones del navegador aparece un icono de un candado y, al hacer clic sobre ese icono, los usuarios pueden consultar los datos del certificado, como la autoridad emisora y el nombre de la empresa propietaria del sitio web.
 
 # Pasos para la vulnerabilidad de kioptrix 
 1-	En nuestra terminal encontrar la ip para conectarnos con kioptrix
