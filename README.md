@@ -38,6 +38,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2003-0201
 
 https://github.com/heltonWernik/OpenLuck
 
+https://www.digicert.com/es/what-is-ssl-tls-https/
+
 # POC
 
 ![imagen 1](./fotos/img1.png)
