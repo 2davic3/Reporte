@@ -17,7 +17,9 @@ Esto lo podemos encontrar con el comando supo arp-scan -l.
 
 2-	Posteriormente en este paso es donde se procede a escalar, utilizando el primer dato que es la ip para así poder obtener el puerto que se encuentre abierto.
 
-3-	Después podemos empezar a hacer nuestro ataque.
+3-	Luego podemos dar inicio a nuestro ataque
+
+4- comprometer los datos del obtenidos
 
 # Impacto
 el atacante ya tiene acceso a la informacion del sitio web ya que con la vulnerabilidad y privilegios ha podido obtener la informacion 
