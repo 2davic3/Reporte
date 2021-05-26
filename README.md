@@ -9,7 +9,7 @@ SSL es una tecnología estandarizada que permite cifrar el tráfico de datos ent
 Si aparecen las letras HTTPS al principio de la dirección (URL) de un sitio web, dicho sitio está protegido por un certificado SSL o TLS. Además, en la barra de direcciones del navegador aparece un icono de un candado y, al hacer clic sobre ese icono, los usuarios pueden consultar los datos del certificado, como la autoridad emisora y el nombre de la empresa propietaria del sitio web.
 
 # Elementos con los que se trabajo 
-Máquina virtual virtualvox
+Máquina virtual virtualvox kioptrix lvl 1
 
 # Pasos para la vulnerabilidad de kioptrix 
 1-	En nuestra terminal encontrar la ip para conectarnos con kioptrix
