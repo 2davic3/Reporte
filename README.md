@@ -30,6 +30,11 @@ y con esto poder tenes los datos personales ya sea usuarios, bases de datos, con
 
 3- Configurar un archivo .htaccess para evitar inyectar enrutamientos.
 
+# Referencias 
+https://md5.gromweb.com/?string=%241%24zL4.MR4t%2426N4YpTGceBO0gTX6TAky1
+https://nvd.nist.gov/vuln/detail/CVE-2003-0201
+https://github.com/heltonWernik/OpenLuck
+
 # POC
 
 ![imagen 1](./fotos/img1.png)
