@@ -14,20 +14,19 @@ Máquina virtual virtualvox kioptrix lvl 1
 # Reproduccion
 1-	En nuestra terminal primeramente es necesario encontrar la ip para poder conectarnos con kioptrix, y, la manera de acceder es mediante el comando supo arp-scan -l.
 
-2-	Posteriormente en este paso es donde se procede a escalar, utilizando el primer dato que es la ip para así poder obtener el puerto que se encuentre abierto.
+2-	Posteriormente, en este paso es donde se procede a escalar; utilizando el primer dato que es la ip y así poder obtener el puerto que se encuentre abierto.
 
-3-	Luego podemos dar inicio a nuestro ataque
+3-  Luego de esto, podemos dar inicio a nuestro ataque.
 
-4- comprometer los datos del obtenidos
+4- Una vez iniciado el ataque, se comprometen los datos obtenidos anteriormente
 
 # Impacto
-el atacante ya tiene acceso a la informacion del sitio web ya que con la vulnerabilidad y privilegios ha podido obtener la informacion 
-y con esto poder tenes los datos personales ya sea usuarios, bases de datos, contraseñas, etc.
+Se da cuando el atacante ya tiene un total acceso a la información del sitio web, mismos que han podido ser captados mediante la vulnerabilidad y privilegios que se obtuvieron al acceder al sitio web, lo cual quiere decir, que todos los datos e información personal pasa a ser conocida para el atacante, tales como: Usuarios, bases de datos, contraseñas, entre otros.
 
 # mitigacion 
-1- tener certificado SSL
+1- Obtener certificado SSL
 
-2- configurar la red vpn 
+2- Configurar la red vpn 
 
 3- Configurar un archivo .htaccess para evitar inyectar enrutamientos.
 
