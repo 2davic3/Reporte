@@ -19,6 +19,14 @@ Esto lo podemos encontrar con el comando supo arp-scan -l.
 
 3-	Después podemos empezar a hacer nuestro ataque.
 
+# Impacto
+el atacante ya tiene acceso a la informacion del sitio web ya que con la vulnerabilidad y privilegios ha podido obtener la informacion 
+y con esto poder tenes los datos personales ya sea usuarios, bases de datos, contraseñas, etc.
+
+# mitigacion 
+1- restringir el acceso smb de fuentes no confiables
+
+2- bloquear el puerto tcp 445 y 139 de fuentes no confiables
 
 # POC
 
