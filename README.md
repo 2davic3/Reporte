@@ -24,9 +24,11 @@ el atacante ya tiene acceso a la informacion del sitio web ya que con la vulnera
 y con esto poder tenes los datos personales ya sea usuarios, bases de datos, contraseñas, etc.
 
 # mitigacion 
-1- restringir el acceso smb de fuentes no confiables
+1- tener certificado SSL
 
-2- bloquear el puerto tcp 445 y 139 de fuentes no confiables
+2- configurar la red vpn 
+
+3- Configurar un archivo .htaccess para evitar inyectar enrutamientos.
 
 # POC
 
