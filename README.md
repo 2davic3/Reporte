@@ -11,13 +11,11 @@ Si aparecen las letras HTTPS al principio de la dirección (URL) de un sitio web
 # Elementos con los que se trabajo 
 Máquina virtual virtualvox kioptrix lvl 1
 
-# Pasos para la vulnerabilidad de kioptrix 
+# Reproduccion
 1-	En nuestra terminal encontrar la ip para conectarnos con kioptrix
-Esto lo podemos encontrar con el comando supo arp-scan -l
-
-2-	Aquí es donde empezamos a escalar teniendo el primer dato que es la ip después obtener el puerto que este abierto 
-
-3-	Después podemos empezar a hacer nuestro ataque 
+Esto lo podemos encontrar con el comando supo arp-scan -l.
+2-	Aquí es donde empezamos a escalar teniendo el primer dato que es la ip después obtener el puerto que este abierto .
+3-	Después podemos empezar a hacer nuestro ataque.
 
 
 # POC
