@@ -14,7 +14,9 @@ Máquina virtual virtualvox kioptrix lvl 1
 # Reproduccion
 1-	En nuestra terminal encontrar la ip para conectarnos con kioptrix
 Esto lo podemos encontrar con el comando supo arp-scan -l.
-2-	Aquí es donde empezamos a escalar teniendo el primer dato que es la ip después obtener el puerto que este abierto .
+
+2-	Aquí es donde empezamos a escalar teniendo el primer dato que es la ip después obtener el puerto que este abierto.
+
 3-	Después podemos empezar a hacer nuestro ataque.
 
 
