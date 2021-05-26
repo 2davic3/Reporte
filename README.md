@@ -12,7 +12,7 @@ Si aparecen las letras HTTPS al principio de la dirección (URL) de un sitio web
 Máquina virtual virtualvox kioptrix lvl 1
 
 # Reproduccion
-1-	En nuestra terminal encontrar la ip para conectarnos con kioptrix
+1-	por medio de la terminal podemos encontrar la ip para conectarnos con kioptrix
 Esto lo podemos encontrar con el comando supo arp-scan -l.
 
 2-	Posteriormente en este paso es donde se procede a escalar, utilizando el primer dato que es la ip para así poder obtener el puerto que se encuentre abierto.
